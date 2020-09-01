@@ -1,3 +1,7 @@
+---
+{% raw %}{% seo %}{% endraw %}
+---
+
 # Math/Stats/R Tutor
 
 ![me](https://j.gifs.com/K1qp3l.gif)
