@@ -2,7 +2,7 @@
 layout: post
 {% raw %}{% seo %}{% endraw %}
 ---
-
+https://iamgiddyaboutgit-wyzant.github.io/Ad/
 # Math/Stats/R Tutor
 
 ![me](https://j.gifs.com/K1qp3l.gif)
