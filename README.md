@@ -1,4 +1,5 @@
 ---
+layout: post
 {% raw %}{% seo %}{% endraw %}
 ---
 
